@@ -20,6 +20,10 @@ buildscript {
         kotlin_version = '1.4.10'
         archLifecycleVersion = '1.1.1'
         gradleVersion = '4.1.0'
+<<<<<<< HEAD
+=======
+        navigationVersion = "2.3.0"
+>>>>>>> faf92af (initial commint)
         supportlibVersion = '1.2.0'
         dataBindingCompilerVersion = gradleVersion // Always need to be the same.
     }
